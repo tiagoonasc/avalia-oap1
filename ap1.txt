@@ -1,0 +1,9 @@
+inicei com o comando mkdir avaliaçãoap1 para criar uma pasta no meu repositorio local, 
+fiz comando cd avaliaçãoap1 para entrar dentro da pasta, 
+fiz o comando touch ap1.txt para criar um documento,
+fiz um git init para inicializar o git,
+fiz um git add . para adicionar um arquivo e enviar para o git,
+fiz um git commit -m para mandar o arquivo,
+coloquei o meu repositorio remoto git remote add origin https://github.com/tiagoonasc/avalia-oap1. git,
+fiz um git push --ser -upstream para mandar pro repositorio,
+fiz o touch e criei ap1-1.txt,o mesmo preocesso pra mandar os arquivos igual ao processo anterior
